@@ -1,0 +1,12 @@
+.origami {
+  background-color: teal;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.a1 {
+  margin: 30px;
+  padding: 30px;
+  border: black solid;
+}
